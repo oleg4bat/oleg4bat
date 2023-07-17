@@ -2,6 +2,7 @@
 - [FoodGram](https://github.com/oleg4bat/foodgram-project-react) - это онлайн-сервис + API (DRF) для любителей готовить!
 - [YamDBAPI](https://github.com/oleg4bat/infra_sp2) - API для сбора информации о музыке, фильмах и других произведениях.
 - [YaTube](https://github.com/oleg4bat/hw05_final) - блог для писателей с множеством функций, таких как комментарии, лайки, подписки и прочее.
+- [CRUD for YaTube](https://github.com/oleg4bat/api_final_yatube) - CRUD для YaTube
 - [Homework-bot](https://github.com/oleg4bat/homework_bot) - отправляет уведомления о статусе домашнего задания.
 - [Модуль фитнес-трекера](https://github.com/oleg4bat/hw_python_oop) для расчета параметров тренировки.
 
